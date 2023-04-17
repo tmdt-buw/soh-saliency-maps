@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soh-saliency-maps/static/css/main.b8ef6d6b.css",
+    "main.js": "/soh-saliency-maps/static/js/main.330ee9f4.js",
+    "static/js/787.284a0def.chunk.js": "/soh-saliency-maps/static/js/787.284a0def.chunk.js",
+    "index.html": "/soh-saliency-maps/index.html",
+    "main.b8ef6d6b.css.map": "/soh-saliency-maps/static/css/main.b8ef6d6b.css.map",
+    "main.330ee9f4.js.map": "/soh-saliency-maps/static/js/main.330ee9f4.js.map",
+    "787.284a0def.chunk.js.map": "/soh-saliency-maps/static/js/787.284a0def.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ef6d6b.css",
+    "static/js/main.330ee9f4.js"
+  ]
+}
