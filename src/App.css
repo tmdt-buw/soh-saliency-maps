@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+  text-align: center;
+}
+
+.layout {
+  min-height: 100vh;
+}
+
+.split-container {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.split-section {
+  flex: 1;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.split-section:first-child {
+  margin-right: 0.5rem;
+}
+
+.split-section:last-child {
+  margin-left: 0.5rem;
+}
+
+.heatmap {
+  width:100%;
+}
