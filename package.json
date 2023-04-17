@@ -1,7 +1,7 @@
 {
-  "name": "saliencymap-web",
+  "name": "soh-saliency-maps",
   "version": "0.1.0",
-  "homepage": "https://yahah100.github.io/saliencymap-web",
+  "homepage": "https://tmdt-buw.github.io/soh-saliency-maps",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
