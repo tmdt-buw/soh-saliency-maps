@@ -36,7 +36,7 @@ function App() {
     <Layout className="layout">
       <Header className="header">
       <div className='logo'>
-        <img src={`${process.env.PUBLIC_URL}/TMDT_Logo_complete.png`} alt="logo" />
+        <img src={`${process.env.PUBLIC_URL}/TMDT_Logo_light_complete.png`} alt="logo" />
       </div>
         <Menu theme="dark" mode="horizontal" onClick={onMenuClick} items={items1}  selectedKeys={[menuItem]}/>
       </Header>
